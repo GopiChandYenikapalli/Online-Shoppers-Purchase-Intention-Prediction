@@ -46,7 +46,7 @@ To achieve this, the company plans to use a machine learning model to identify p
 
 Note that this dataset is a combination of web analytics data and survey data, and the columns represent various attributes of the user's browsing behavior on a large online retailer in Turkey.
 
-# 3.0 Performance metrics Identification
+# Performance metrics Identification
 
 ### As this company is new to the market and wants to spend more on marketing campaigns to reach as many potential customers, building its own brand and focusing on product sales.
 
