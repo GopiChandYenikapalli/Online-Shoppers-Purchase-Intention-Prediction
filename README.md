@@ -1,4 +1,5 @@
 # Online-Shoppers-Purchase-Intention-Prediction
+<img width="100%" alt="image" src="https://github.com/GopiChandYenikapalli/Online-Shoppers-Purchase-Intention-Prediction/assets/124816585/4c8468dc-0979-4b49-bdfa-744143de8033">
 
 # Business Scenario:
 
