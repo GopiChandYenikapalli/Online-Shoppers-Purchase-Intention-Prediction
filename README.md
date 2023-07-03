@@ -68,6 +68,64 @@ Recall and precision scores depend on the specific goal of the analysis and the 
 
 To minimize the number of false positives, even if it means potentially missing some positive instances, precision should be the primary metric to focus on. High precision means that the model is able to correctly identify positive instances with a high degree of certainty, which is important for minimizing the cost of false positives, such as wasting resources on marketing campaigns to non-interested customers. However, the company is more concerned with not missing out on potential customers and wants to minimize False Negatives (FN), they prioritize maximizing Recall, which measures the proportion of true positives among all actual positive cases (TP / (TP + FN)). A higher Recall score indicates that the model is better at identifying all positive cases, even if it means making more false positive predictions, which means identifying all users who are likely to make a purchase, regardless of the number of false positives.
 
+# Recall scores
+**************************************
+Logistic Regression deafult:0.7454545454545455
+
+Logistic Regression Random Search:0.7454545454545455
+
+Logistic Regression Grid Search:0.7454545454545455
+
+**************************************
+SVM Linear deafult:0.730909090909091
+
+SVM Linear Random Search:0.730909090909091
+
+SVM Linear Grid Search:0.730909090909091
+
+**************************************
+
+SVM rbf deafult:  0.7490909090909091
+
+SVM rbf Random Search:0.7345454545454545
+
+SVM rbf Grid Search:0.7327272727272728
+
+**************************************
+
+SVM Poly deafult: 0.7345454545454545
+
+SVM Poly Random Search:0.7163636363636363
+
+SVM Poly Grid Search:0.7163636363636363
+
+**************************************
+
+Decision Tree deafult:0.5636363636363636
+
+Decision Tree Random Search:0.8490909090909091
+
+Decision Tree Grid Search:0.8345454545454546
+
+**************************************
+
+ANN deafult:      0.6290909090909091
+
+ANN Random Search:0.649090909090909
+
+ANN Grid Search:  0.8545454545454545
+
+**************************************
+
+DNN with Random Search:0.8036363636363636
+
+DNN deafult :     0.7981818181818182
+
+DNN with Random Grid Search:0.7981818181818182
+
+WDNN:             0.82
+**************************************
+
 
 # Contact details
 If you've enjoyed browsing through my portfolio or would like to discuss potential work opportunities or collaborations, please reach out to me via email <stong/>gopichandyenikapalli@usf.edu <strong/> or https://www.linkedin.com/in/gopichand-yenikapalli-usf/
