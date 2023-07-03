@@ -68,3 +68,8 @@ Recall and precision scores depend on the specific goal of the analysis and the 
 
 To minimize the number of false positives, even if it means potentially missing some positive instances, precision should be the primary metric to focus on. High precision means that the model is able to correctly identify positive instances with a high degree of certainty, which is important for minimizing the cost of false positives, such as wasting resources on marketing campaigns to non-interested customers. However, the company is more concerned with not missing out on potential customers and wants to minimize False Negatives (FN), they prioritize maximizing Recall, which measures the proportion of true positives among all actual positive cases (TP / (TP + FN)). A higher Recall score indicates that the model is better at identifying all positive cases, even if it means making more false positive predictions, which means identifying all users who are likely to make a purchase, regardless of the number of false positives.
 
+
+# Contact details
+If you've enjoyed browsing through my portfolio or would like to discuss potential work opportunities or collaborations, please reach out to me via email <stong/>gopichandyenikapalli@usf.edu <strong/> or https://www.linkedin.com/in/gopichand-yenikapalli-usf/
+
+I'm always excited to connect with new people in the industry and explore potential partnerships or projects together. I look forward to hearing from you soon!
